@@ -6,6 +6,6 @@
 	<title></title>
 </head>
 <body>
-	<h1>BONJOUR</h1>
+	<h1>contact</h1>
 </body>
 </html>
